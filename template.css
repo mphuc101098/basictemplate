@@ -1,0 +1,56 @@
+.bg-header{
+    background-color: #333333;
+    color: #C0BAB6;
+}
+.font-header{
+    font-family: Georgia;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+#button{
+    background-color:#FF9900;
+    margin: 4px 2px;
+    border: none;
+    color: white;
+    padding: 7px 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+h4{
+    font-style: italic;
+    padding-bottom: 20px;
+    color: #C0BAB6;
+}
+
+a:link{
+    color: orange;
+}
+a:hover{
+    text-decoration: none;
+}
+.list-link > li {
+    margin: 0 0 8px 0;
+    padding: 0 0 5px 0;
+    border-bottom: 1px solid #D6D6D6;
+    
+}
+
+hr{
+    height:2px;
+    border-width:0;color:gray;
+    background-color:gray
+    }
+
+.bg-footer{
+        background-color: #333333;
+        color: #C0BAB6;
+        padding: 15px 15px;
+        margin-top: 15px;
+}
